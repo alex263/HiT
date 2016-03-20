@@ -15,7 +15,7 @@
     <body>
         <H1>Gilla - Tom Cat</H1>
         		<pre>
-<!--audio src="./TomCat.mp3" controls-->
+<audio src="./TomCat.mp3" controls>
 <p>If you are reading this, it is because your browser does not support the audio element.</p>
 </audio>
 I can stick around
